@@ -22,3 +22,10 @@ jupyter notebook Project1.ipynb
 git add *.ipynb
 git commit -m "Update notebooks"
 git push origin main
+
+# Navigate to your repo
+cd C:\Users\brand\Data-Viz-Project1
+
+# Pull latest changes
+git pull origin main
+
